@@ -21,7 +21,6 @@ This project demonstrates the development of a multi-class network intrusion det
 
 ## 🔧 Installation
 
-```bash
 pip install pandas numpy scikit-learn seaborn matplotlib joblib
 
 ## 🧠 Model Training
